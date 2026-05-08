@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 08 12:53:24 EEST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019e-0701-945e-000002446eb8 
+on database directory C:\Users\Admin\Desktop\FDB_OLAP_proiect\P2_Data Service Architecture\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/Admin/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=JetBrains s.r.o.
+java.runtime.version=21.0.10+1-b1163.110
+user.dir=C:\Users\Admin\Desktop\FDB_OLAP_proiect\P2_Data Service Architecture
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

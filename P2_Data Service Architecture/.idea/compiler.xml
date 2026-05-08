@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DSA-NoSQL-MongoDBService" />
+        <module name="DSA-SQL-JDBCService" />
+        <module name="DSA-WEB-RESTService" />
+        <module name="DSA-SparkSQL-Service" />
+        <module name="DSA-SQL-JPAService" />
+        <module name="DSA-WEB-VaadinService" />
+        <module name="DSA-DOC-CSVService" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DSA-DOC-CSVService" options="-parameters" />
+      <module name="DSA-NoSQL-MongoDBService" options="-parameters" />
+      <module name="DSA-SQL-JDBCService" options="-parameters" />
+      <module name="DSA-SQL-JPAService" options="-parameters" />
+      <module name="DSA-SparkSQL-Service" options="-parameters" />
+      <module name="DSA-WEB-RESTService" options="-parameters" />
+      <module name="DSA-WEB-VaadinService" options="-parameters" />
+    </option>
+  </component>
+</project>
